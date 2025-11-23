@@ -1,8 +1,9 @@
 # HCK_Labs — Educational AI Engineering Environment
+zeroAPI fixed by all .JS logic problems and connection cross
 
-**Author:** Marcin Firmuga  
+**Author:** Marcin Firmuga    /  Afjal Jones
 **Repository:** hck-portfolio-dev  
-**Version:** v0.1 — Framework Build  
+**Version:** v0.1  > v0.2 — Framework Build  
 **Status:** Active Development  
 
 ---
@@ -153,4 +154,5 @@ Building educational frameworks that mirror real development environments.
 ## 10. License
 
 This repository is part of the **HCK_Labs educational initiative** and is distributed for learning, research, and personal use.  
+
 All components and visuals are original works of the author.
